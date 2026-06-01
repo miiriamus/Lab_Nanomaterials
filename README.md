@@ -28,7 +28,6 @@ This laboratory course aims to:
 - Quantum confinement and bandgap engineering
 - Photoluminescence spectroscopy fundamentals
 - Size-dependent optical properties of nanomaterials
-- Fluorescence quantum yield measurements
 
 **Branch**: `quantum-dots`
 
@@ -44,7 +43,6 @@ This laboratory course aims to:
 - Heat transport in low-dimensional systems
 - Frequency-dependent impedance analysis
 - Thin-film thermal properties
-- AC lock-in detection techniques
 
 **Branch**: `thermal-conductivity`
 
@@ -83,13 +81,7 @@ git checkout thermal-conductivity
 
 ## Contributors
 
-- Laboratory participants from UAB Physics of Nanomaterials course (2025-2026)
-
-## Notes
-
-- Detailed methodology, results, and discussions for each experiment are documented within their respective branches
-- Raw data files are preserved in their original format for reproducibility
-- Analysis code is provided in Python and/or MATLAB as appropriate
+- Oscar Cirera Ruz
 
 ---
 
