@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains experimental data, analysis code, and documentation from the **Physics of Nanomaterials** laboratory course offered at **Universitat Autònoma de Barcelona**. The course provides hands-on experience in synthesizing, characterizing, and analyzing nanomaterials through a series of carefully designed experiments.
+This repository contains experimental data, analysis code, and documentation from the **Physics of Nanomaterials** course offered at **Universitat Autònoma de Barcelona**. The course provides hands-on experience in synthesizing, characterizing, and analyzing nanomaterials through a series of carefully designed experiments.
 
 ## Course Information
 
